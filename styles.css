@@ -61,6 +61,9 @@ body{
     font-weight: bold;
     margin-bottom: 15px;
 }
+.subtitle{
+    font-weight: bold;
+}
 
 .contact-info{
     font-size: 0.9em;
